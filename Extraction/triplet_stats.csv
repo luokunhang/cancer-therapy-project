@@ -1,0 +1,6 @@
+,# of data,Medications,R2,RMSE,MPPE
+0,3,"PFS_Melphalan, Prednisone, Thalidomide",0.17807958590383022,126.60893535460735,26.825731682725173
+1,12,"PFS_Bortezomib, Cyclophosphamide, Liposomal doxorubicin",0.9325982429898487,9.4421290932792,6.592453019347951
+2,3,"PFS_Bortezomib, Cyclophosphamide, Lenalidomide",1.0,0.0,0.0
+3,3,"PFS_Bortezomib, Melphalan, Prednisone",1.0,1.0115360521497328e-13,5.393995841278246e-14
+4,3,"PFS_Bortezomib, Cyclophosphamide, Doxorubicin",1.0,9.981376320764203e-14,5.2651934439758533e-14

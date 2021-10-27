@@ -1,0 +1,332 @@
+,ID,Line,DaysFromDxStart,DaysFromDxStop,MedTx,Duration,PFS
+1,MM13,1,49,128,Cyclophosphamide,79,133
+2,MM13,1,49,128,Liposomal doxorubicin,79,133
+3,MM13,1,49,128,Bortezomib,79,133
+4,MM13,2,182,185,Etoposide,3,41
+5,MM13,2,182,185,Cyclophosphamide,3,41
+6,MM13,3,223,223,Stem cell transplant,1,121
+7,MM13,4,344,681,Vorinostat,337,393
+8,MM13,4,345,681,Bortezomib,336,393
+9,MM13,5,737,1467,Bortezomib,730,730
+10,MM176,1,21,63,Bortezomib,42,56
+11,MM176,1,21,63,Cyclophosphamide,42,56
+12,MM176,1,28,56,Liposomal doxorubicin,28,56
+13,MM176,2,77,147,Thalidomide,70,94
+14,MM176,2,77,146,Bortezomib,69,94
+15,MM176,3,171,173,Cyclophosphamide,2,35
+16,MM176,3,171,173,Etoposide,2,35
+17,MM176,4,206,206,Stem cell transplant,1,187
+18,MM176,5,393,394,Bendamustine,1,34
+19,MM176,5,393,395,Etoposide,2,34
+20,MM176,6,427,427,Stem cell transplant,1,856
+21,MM176,7,1283,1318,Bortezomib,35,40
+22,MM176,7,1283,1318,Lenalidomide,35,40
+23,MM176,8,1323,1871,Lenalidomide,548,579
+24,MM176,9,1902,2054,Lenalidomide,152,182
+25,MM176,10,2084,2221,Lenalidomide,137,139
+26,MM176,11,2223,2237,Pomalidomide,14,37
+27,MM176,12,2260,2318,Carfilzomib,58,58
+28,MM176,12,2260,2318,Pomalidomide,58,58
+29,MM199,1,149,240,Liposomal doxorubicin,91,99
+30,MM199,1,149,240,Bortezomib,91,99
+31,MM199,1,149,240,Lenalidomide,91,99
+32,MM199,2,248,248,Stem cell transplant,1,114
+33,MM199,3,362,392,Lenalidomide,30,48
+34,MM199,4,410,454,Cisplatin,44,55
+35,MM199,4,410,454,Bortezomib,44,55
+36,MM199,4,410,454,Cyclophosphamide,44,55
+37,MM199,4,410,454,Etoposide,44,55
+38,MM199,4,410,454,Doxorubicin,44,55
+39,MM199,4,410,454,Lenalidomide,44,55
+40,MM199,5,465,476,Lenalidomide,11,34
+41,MM199,6,499,499,Stem cell transplant,1,41
+42,MM199,7,540,540,Stem cell transplant,1,68
+43,MM199,8,608,625,Bortezomib,17,17
+44,MM215,1,14,111,Bortezomib,97,130
+45,MM215,1,14,111,Cyclophosphamide,97,130
+46,MM215,1,14,104,Liposomal doxorubicin,90,130
+47,MM215,2,144,145,Bendamustine,1,38
+48,MM215,3,182,183,Stem cell transplant,1,1
+49,MM24,1,2,9,Cyclophosphamide,7,179
+50,MM24,1,14,120,Lenalidomide,106,179
+51,MM24,1,14,120,Bortezomib,106,179
+52,MM24,2,181,181,Stem cell transplant,1,1
+53,MM248,1,5,127,Adriamycin,122,760
+54,MM248,1,5,127,Cyclophosphamide,122,760
+55,MM248,1,5,127,Vincristine,122,760
+56,MM248,2,765,796,Adriamycin,31,92
+57,MM248,2,765,796,Cyclophosphamide,31,92
+58,MM248,3,857,1009,Bortezomib,152,274
+59,MM248,4,1131,1162,Bortezomib,31,31
+60,MM248,5,1162,1282,Thalidomide,120,186
+61,MM248,6,1348,1348,Stem cell transplant,1,1
+62,MM254,1,659,751,Liposomal doxorubicin,92,120
+63,MM254,1,659,751,Bortezomib,92,120
+64,MM254,1,659,751,Cyclophosphamide,92,120
+65,MM254,2,779,779,Cyclophosphamide,1,40
+66,MM254,3,819,819,Stem cell transplant,1,1
+67,MM267,1,22,22,Lenalidomide,1,168
+68,MM267,1,32,183,Bortezomib,151,168
+69,MM267,1,32,183,Cyclophosphamide,151,168
+70,MM267,2,190,221,Prednisone,31,40
+71,MM267,3,230,280,Lenalidomide,50,50
+72,MM267,4,280,308,Bortezomib,28,28
+73,MM267,4,280,308,Lenalidomide,28,28
+74,MM293,1,6,30,Prednisone,24,679
+75,MM293,1,6,30,Thalidomide,24,679
+76,MM293,1,6,30,Melphalan,24,679
+77,MM293,2,685,700,Lenalidomide,15,23
+78,MM293,3,708,761,Liposomal doxorubicin,53,117
+79,MM293,3,708,761,Bortezomib,53,117
+80,MM293,4,825,853,Bortezomib,28,84
+81,MM293,4,825,853,Cyclophosphamide,28,84
+82,MM293,5,909,909,Cyclophosphamide,1,41
+83,MM293,6,950,950,Stem cell transplant,1,1
+84,MM307,1,408,513,Cyclophosphamide,105,141
+85,MM307,1,408,513,Bortezomib,105,141
+86,MM307,1,415,506,Liposomal doxorubicin,91,141
+87,MM307,2,549,552,Cyclophosphamide,3,35
+88,MM307,2,549,552,Etoposide,3,35
+89,MM307,3,584,584,Stem cell transplant,1,105
+90,MM307,4,689,807,Bortezomib,118,118
+91,MM341,1,26,57,Liposomal doxorubicin,31,31
+92,MM341,1,26,57,Cyclophosphamide,31,31
+93,MM341,1,26,57,Bortezomib,31,31
+94,MM341,2,57,130,Bortezomib,73,91
+95,MM341,2,57,130,Thalidomide,73,91
+96,MM341,3,148,148,Thalidomide,1,15
+97,MM341,4,163,166,Etoposide,3,40
+98,MM341,4,163,166,Thalidomide,3,40
+99,MM341,4,163,166,Cyclophosphamide,3,40
+100,MM341,4,163,166,Doxorubicin,3,40
+101,MM341,4,170,173,Bortezomib,3,40
+102,MM341,5,203,203,Stem cell transplant,1,56
+103,MM341,6,259,259,Stem cell transplant,1,147
+104,MM341,7,406,412,Lenalidomide,6,71
+105,MM341,8,477,1701,Lenalidomide,1224,1251
+106,MM341,9,1728,1798,Methotrexate,70,70
+107,MM341,10,1798,1820,Rituximab,22,176
+108,MM341,11,1974,1975,Carfilzomib,1,413
+109,MM341,12,2387,2432,Ixazomib,45,45
+110,MM347,1,89,573,Prednisone,484,576
+111,MM347,1,89,573,Melphalan,484,576
+112,MM347,1,89,573,Thalidomide,484,576
+113,MM347,2,665,818,Lenalidomide,153,153
+114,MM347,3,818,879,Cyclophosphamide,61,61
+115,MM358,1,5,370,Cyclophosphamide,365,1127
+116,MM358,1,5,370,Thalidomide,365,1127
+117,MM358,1,5,370,Prednisone,365,1127
+118,MM358,2,1132,1466,Lenalidomide,334,396
+119,MM358,3,1528,1650,Bortezomib,122,242
+120,MM358,4,1770,1862,Bortezomib,92,92
+121,MM358,5,1862,2069,Carfilzomib,207,235
+122,MM358,5,1862,2069,Cyclophosphamide,207,235
+123,MM358,6,2097,2097,Cyclophosphamide,1,33
+124,MM358,7,2130,2130,Stem cell transplant,1,1
+125,MM459,1,23,328,Vincristine,305,458
+126,MM459,1,23,23,Prednisone,1,458
+127,MM459,1,23,328,Adriamycin,305,458
+128,MM459,2,481,511,Thalidomide,30,35
+129,MM459,3,516,516,Stem cell transplant,1,19
+130,MM459,4,535,535,Cytarabine,1,1
+131,MM466,1,22,124,Cyclophosphamide,102,158
+132,MM466,1,22,124,Liposomal doxorubicin,102,158
+133,MM466,1,22,124,Bortezomib,102,158
+134,MM466,2,180,180,Stem cell transplant,1,119
+135,MM466,3,299,618,Bortezomib,319,1426
+136,MM466,3,299,618,Vorinostat,319,1426
+137,MM466,4,1725,1878,Lenalidomide,153,153
+138,MM466,5,1878,2364,Pomalidomide,486,494
+139,MM466,6,2372,2421,TTI-621,49,55
+140,MM466,7,2427,2504,Carfilzomib,77,77
+141,MM494,1,7,60,Prednisone,53,128
+142,MM494,1,7,60,Bortezomib,53,128
+143,MM494,1,7,104,Melphalan,97,128
+144,MM494,2,135,196,Bortezomib,61,122
+145,MM494,3,257,296,Bortezomib,39,69
+146,MM494,4,326,326,Cyclophosphamide,1,33
+147,MM494,5,359,359,Stem cell transplant,1,1
+148,MM503,1,208,330,Etoposide,122,150
+149,MM503,1,208,330,Cyclophosphamide,122,150
+150,MM503,1,208,330,Cisplatin,122,150
+151,MM503,2,358,361,Etoposide,3,33
+152,MM503,2,358,361,Doxorubicin,3,33
+153,MM503,2,358,361,Cisplatin,3,33
+154,MM503,2,358,361,Cyclophosphamide,3,33
+155,MM503,2,358,361,Thalidomide,3,33
+156,MM503,2,365,368,Bortezomib,3,33
+157,MM503,3,391,392,Etoposide,1,46
+158,MM503,4,437,437,Stem cell transplant,1,195
+159,MM503,5,632,888,Thalidomide,256,552
+160,MM503,6,1184,1243,Carfilzomib,59,89
+161,MM503,6,1184,1243,Cyclophosphamide,59,89
+162,MM503,7,1273,1365,Carfilzomib,92,123
+163,MM503,8,1396,1426,Carfilzomib,30,242
+164,MM503,9,1638,2445,Carfilzomib,807,869
+165,MM503,10,2507,2704,Carfilzomib,197,227
+166,MM503,10,2507,2704,Pomalidomide,197,227
+167,MM503,11,2734,2977,Liposomal doxorubicin,243,274
+168,MM503,11,2734,2977,Vincristine,243,274
+169,MM503,12,3008,3160,Venetoclax,152,153
+170,MM503,12,3008,3161,Bortezomib,153,153
+171,MM504,1,487,578,Bortezomib,91,457
+172,MM504,1,487,578,Doxorubicin,91,457
+173,MM504,1,487,578,Cyclophosphamide,91,457
+174,MM504,2,944,1005,Cyclophosphamide,61,450
+175,MM504,2,944,1005,Adriamycin,61,450
+176,MM504,3,1394,1467,Cyclophosphamide,73,158
+177,MM504,3,1394,1467,Bortezomib,73,158
+178,MM504,4,1552,1578,Lenalidomide,26,91
+179,MM504,5,1643,1902,Carfilzomib,259,399
+180,MM504,6,2042,2131,Carfilzomib,89,126
+181,MM504,6,2042,2131,Pomalidomide,89,126
+182,MM504,7,2168,2252,Daratumumab,84,155
+183,MM504,8,2323,2323,Stem cell transplant,1,117
+184,MM504,9,2440,2709,Carfilzomib,269,269
+185,MM514,1,285,296,Lenalidomide,11,141
+186,MM514,1,293,383,Bortezomib,90,141
+187,MM514,1,293,383,Cyclophosphamide,90,141
+188,MM514,2,426,426,Stem cell transplant,1,66
+189,MM514,3,492,919,Bortezomib,427,437
+190,MM514,4,929,1035,Carfilzomib,106,160
+191,MM514,4,929,1035,Cyclophosphamide,106,160
+192,MM514,5,1089,1447,Daratumumab,358,386
+193,MM514,6,1475,1506,Liposomal doxorubicin,31,42
+194,MM514,6,1475,1506,Vincristine,31,42
+195,MM514,7,1517,1819,Daratumumab,302,372
+196,MM514,7,1517,1819,Pomalidomide,302,372
+197,MM514,8,1889,2043,Liposomal doxorubicin,154,154
+198,MM514,8,1889,2043,Bortezomib,154,154
+199,MM533,1,53,156,Cyclophosphamide,103,119
+200,MM533,1,53,156,Bortezomib,103,119
+201,MM533,1,53,156,Liposomal doxorubicin,103,119
+202,MM533,2,172,217,Thalidomide,45,48
+203,MM533,2,172,217,Bortezomib,45,48
+204,MM533,3,220,262,Bortezomib,42,43
+205,MM533,3,220,262,Thalidomide,42,43
+206,MM533,4,263,274,Etoposide,11,38
+207,MM533,4,263,274,Bortezomib,11,38
+208,MM533,4,263,274,Lenalidomide,11,38
+209,MM533,4,263,274,Cisplatin,11,38
+210,MM533,4,263,274,Cyclophosphamide,11,38
+211,MM533,4,263,274,Doxorubicin,11,38
+212,MM533,5,301,301,Stem cell transplant,1,56
+213,MM533,6,357,359,Fludarabine,2,42
+214,MM533,6,362,362,Stem cell transplant,1,42
+215,MM533,7,399,451,Prednisone,52,392
+216,MM533,8,791,887,Lenalidomide,96,96
+217,MM544,1,31,337,Thalidomide,306,345
+218,MM544,1,31,337,Melphalan,306,345
+219,MM544,1,31,337,Prednisone,306,345
+220,MM544,2,376,854,Carfilzomib,478,491
+221,MM544,2,376,854,Lenalidomide,478,491
+222,MM544,3,867,1007,Lenalidomide,140,140
+223,MM576,1,17,17,Lenalidomide,1,31
+224,MM576,1,17,48,Bortezomib,31,31
+225,MM576,1,17,48,Liposomal doxorubicin,31,31
+226,MM576,2,48,79,Liposomal doxorubicin,31,31
+227,MM576,2,48,79,Lenalidomide,31,31
+228,MM576,3,79,79,Bortezomib,1,44
+229,MM576,3,79,79,Cyclophosphamide,1,44
+230,MM576,4,123,168,Cyclophosphamide,45,74
+231,MM576,4,123,168,Doxorubicin,45,74
+232,MM576,4,123,168,Thalidomide,45,74
+233,MM576,4,123,168,Etoposide,45,74
+234,MM576,4,123,168,Cisplatin,45,74
+235,MM576,4,123,168,Bortezomib,45,74
+236,MM576,5,197,197,Stem cell transplant,1,1
+237,MM598,1,2,2,Cyclophosphamide,1,323
+238,MM598,1,2,2,Bortezomib,1,323
+239,MM598,1,2,275,Bendamustine,273,323
+240,MM598,2,325,327,Etoposide,2,39
+241,MM598,2,325,325,Cyclophosphamide,1,39
+242,MM598,3,364,364,Stem cell transplant,1,1
+243,MM613,1,7,37,Prednisone,30,30
+244,MM613,1,7,37,Melphalan,30,30
+245,MM613,1,7,37,Bortezomib,30,30
+246,MM613,2,37,190,Cyclophosphamide,153,222
+247,MM613,2,37,190,Bortezomib,153,222
+248,MM613,3,259,260,Bendamustine,1,34
+249,MM613,3,259,261,Etoposide,2,34
+250,MM613,4,293,293,Stem cell transplant,1,262
+251,MM613,5,555,951,Lenalidomide,396,547
+252,MM613,6,1102,1132,Carfilzomib,30,30
+253,MM613,6,1102,1132,Pomalidomide,30,30
+254,MM628,1,16,116,Doxorubicin,100,132
+255,MM628,1,16,116,Bortezomib,100,132
+256,MM628,1,16,116,Cyclophosphamide,100,132
+257,MM628,2,148,193,Etoposide,45,46
+258,MM628,2,148,193,Bendamustine,45,46
+259,MM628,3,194,194,Stem cell transplant,1,45
+260,MM628,4,239,637,Lenalidomide,398,399
+261,MM628,5,638,1030,Yttrium-90,392,393
+262,MM628,5,651,651,Stem cell transplant,1,393
+263,MM628,6,1031,1304,Lenalidomide,273,851
+264,MM628,7,1882,2035,Daratumumab,153,153
+265,MM628,7,1882,2035,Pomalidomide,153,153
+266,MM628,8,2035,2188,Lenalidomide,153,184
+267,MM628,8,2035,2218,Carfilzomib,183,184
+268,MM628,9,2219,2256,Lenalidomide,37,37
+269,MM657,1,8,106,Bortezomib,98,125
+270,MM657,1,8,106,Cyclophosphamide,98,125
+271,MM657,1,8,99,Doxorubicin,91,125
+272,MM657,2,133,136,Etoposide,3,36
+273,MM657,2,133,136,Cyclophosphamide,3,36
+274,MM657,3,169,169,Stem cell transplant,1,94
+275,MM657,4,263,603,Bortezomib,340,340
+276,MM660,1,28,126,Cyclophosphamide,98,134
+277,MM660,1,28,126,Bortezomib,98,134
+278,MM660,1,35,119,Liposomal doxorubicin,84,134
+279,MM660,2,162,162,Cyclophosphamide,1,37
+280,MM660,3,199,199,Stem cell transplant,1,1
+281,MM86,1,8,305,Melphalan,297,380
+282,MM86,1,8,305,Bortezomib,297,380
+283,MM86,1,8,305,Prednisone,297,380
+284,MM86,2,388,550,Lenalidomide,162,171
+285,MM86,3,559,801,Carfilzomib,242,242
+286,MM86,3,559,801,Lenalidomide,242,242
+287,MM89,1,309,414,Cyclophosphamide,105,141
+288,MM89,1,310,414,Bortezomib,104,141
+289,MM89,1,316,414,Liposomal doxorubicin,98,141
+290,MM89,2,450,453,Bortezomib,3,34
+291,MM89,2,450,453,Cisplatin,3,34
+292,MM89,2,450,453,Cyclophosphamide,3,34
+293,MM89,2,450,453,Etoposide,3,34
+294,MM89,2,450,453,Lenalidomide,3,34
+295,MM89,2,450,453,Doxorubicin,3,34
+296,MM89,3,484,484,Stem cell transplant,1,38
+297,MM89,4,522,552,Prednisone,30,940
+298,MM89,5,1462,1623,Lenalidomide,161,188
+299,MM89,5,1462,1622,Ricolinostat,160,188
+300,MM89,6,1650,1650,Stem cell transplant,1,86
+301,MM89,7,1736,1802,Lenalidomide,66,68
+302,MM89,8,1804,1804,Stem cell transplant,1,26
+303,MM89,9,1830,3199,Prednisone,1369,1369
+304,MM91,1,21,133,Bortezomib,112,141
+305,MM91,1,21,133,Liposomal doxorubicin,112,141
+306,MM91,1,21,133,Cyclophosphamide,112,141
+307,MM91,2,162,162,Cyclophosphamide,1,43
+308,MM91,3,205,205,Stem cell transplant,1,76
+309,MM91,4,281,830,Lenalidomide,549,549
+310,MM99,1,22,83,Liposomal doxorubicin,61,92
+311,MM99,1,22,83,Bortezomib,61,92
+312,MM99,1,22,83,Cyclophosphamide,61,92
+313,MM99,2,114,201,Bortezomib,87,102
+314,MM99,2,114,201,Thalidomide,87,102
+315,MM99,3,216,226,Doxorubicin,10,32
+316,MM99,3,216,226,Lenalidomide,10,32
+317,MM99,3,216,226,Cisplatin,10,32
+318,MM99,3,216,226,Etoposide,10,32
+319,MM99,3,216,226,Cyclophosphamide,10,32
+320,MM99,3,216,226,Bortezomib,10,32
+321,MM99,4,248,250,Etoposide,2,40
+322,MM99,4,248,249,Bendamustine,1,40
+323,MM99,5,288,288,Stem cell transplant,1,68
+324,MM99,6,356,356,Stem cell transplant,1,116
+325,MM99,7,472,806,Lenalidomide,334,452
+326,MM99,8,924,1085,Lenalidomide,161,168
+327,MM99,9,1092,1092,Donor lymphocyte infusion,1,336
+328,MM99,10,1428,1428,Donor lymphocyte infusion,1,41
+329,MM99,11,1469,1606,Lenalidomide,137,137
+330,MM99,12,1606,1665,Interferon,59,59
+331,MM99,13,1665,2245,Lenalidomide,580,580

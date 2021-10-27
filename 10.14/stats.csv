@@ -1,0 +1,4 @@
+,# of data,File name,R2,RMSE,MAPE
+0,262,Doublet [Features].csv,0.113681196,86.57313807,65.26198974
+1,186,Singlet [Features].csv,0.568222739,147.7213118,340.3754948
+2,41,Triplet [Features].csv,1,2.02E-13,3.67E-13
